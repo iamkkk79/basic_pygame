@@ -1,2 +1,2 @@
 # basic_pygame
-test gaem
+test game
